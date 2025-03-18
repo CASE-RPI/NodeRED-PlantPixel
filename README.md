@@ -2,8 +2,8 @@
 
 Developed by Jihoon Chung
 - Project: Plant Pixel
-- Co-leader: Will Pepi and Jihoon Chung (Ph.D Candidate)
-- Project Members: Ethan Aspiras and Steven Sun (B.Arch)
+- Group Leaders: Will Pepi and Jihoon Chung (Ph.D Candidates)
+- Members: Ethan Aspiras and Steven Sun (B.Archs)
 - Course: Research Investigation in Fall 2023
 - Instructor: Josh Draper
 - Sponsor: OBM International
